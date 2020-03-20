@@ -1,0 +1,2 @@
+include ':app', ':xlistview_library', ':mode1', ':pulltorefresh_library', ':mode2', ':day9', ':mode3', ':day10', ':day11', ':mode4', ':zuoye1', ':day12', ':day13', ':onezuoye', ':xubaoyu20200116', ':xubaoyu20200208', ':xubaoyu20200210', ':mode5'
+rootProject.name='My Application1'
